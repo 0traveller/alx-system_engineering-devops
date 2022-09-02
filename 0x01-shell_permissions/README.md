@@ -1,1 +1,1 @@
-Shell permissions learning the basic
+Shell permissions, learning the basic is wonderful
